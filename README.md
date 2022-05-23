@@ -1,6 +1,6 @@
 ## Hi!! I'm Elias Arriaga 👋
 
-I am a web developer with knowledge in programming languages such as JavaScript, TypeScript, Python and Go. As well as knowledge in libraries like React.
+I am a web developer with knowledge in programming languages such as JavaScript, TypeScript, Python and Go. As well as knowledge in libraries like ReactJS and NodeJS.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ReamTp&show_icons=true&theme=tokyonight"/>

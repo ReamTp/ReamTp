@@ -3,8 +3,8 @@
 I am a web developer with knowledge in programming languages such as JavaScript, TypeScript, Python and Go. As well as knowledge in libraries like ReactJS and NodeJS.
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ReamTp&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReamTp&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reamdev&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reamdev&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
 
 ## Languages
